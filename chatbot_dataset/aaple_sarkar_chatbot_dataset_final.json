@@ -1,0 +1,912 @@
+[
+  {
+    "ID": 1,
+    "Language": "English",
+    "User Query": "How do I file a complaint?",
+    "Intent": "File_Complaint",
+    "Response": "You can file a complaint on the Aaple Sarkar portal by clicking on 'File Grievance'."
+  },
+  {
+    "ID": 2,
+    "Language": "Marathi",
+    "User Query": "मी तक्रार कशी दाखल करू?",
+    "Intent": "File_Complaint",
+    "Response": "आपण 'आपले सरकार' पोर्टलवर 'तक्रार नोंदवा' वर क्लिक करून तक्रार दाखल करू शकता."
+  },
+  {
+    "ID": 3,
+    "Language": "English",
+    "User Query": "What is the status of my complaint?",
+    "Intent": "Check_Status",
+    "Response": "Use your complaint number to track the status on the portal."
+  },
+  {
+    "ID": 4,
+    "Language": "Marathi",
+    "User Query": "माझ्या तक्रारीची स्थिती काय आहे?",
+    "Intent": "Check_Status",
+    "Response": "पोर्टलवर आपल्या तक्रारीचा क्रमांक वापरून स्थिती तपासा."
+  },
+  {
+    "ID": 5,
+    "Language": "English",
+    "User Query": "How to apply for caste certificate?",
+    "Intent": "Apply_Certificate",
+    "Response": "Go to Aaple Sarkar and choose 'Caste Certificate' under available services."
+  },
+  {
+    "ID": 6,
+    "Language": "Marathi",
+    "User Query": "जात प्रमाणपत्रासाठी अर्ज कसा करावा?",
+    "Intent": "Apply_Certificate",
+    "Response": "'आपले सरकार' पोर्टलवर जाऊन 'जात प्रमाणपत्र' सेवा निवडा."
+  },
+  {
+    "ID": 7,
+    "Language": "English",
+    "User Query": "I forgot my login password.",
+    "Intent": "Forgot_Password",
+    "Response": "Click 'Forgot Password' on the login screen to reset your password."
+  },
+  {
+    "ID": 8,
+    "Language": "Marathi",
+    "User Query": "मी माझा लॉगिन पासवर्ड विसरलो आहे.",
+    "Intent": "Forgot_Password",
+    "Response": "लॉगिन पेजवरील 'पासवर्ड विसरलात' या पर्यायाचा वापर करा."
+  },
+  {
+    "ID": 9,
+    "Language": "English",
+    "User Query": "What schemes are available for farmers?",
+    "Intent": "Scheme_Info",
+    "Response": "Visit the 'Schemes' section to see available schemes for farmers."
+  },
+  {
+    "ID": 10,
+    "Language": "Marathi",
+    "User Query": "शेतकऱ्यांसाठी कोणत्या योजना आहेत?",
+    "Intent": "Scheme_Info",
+    "Response": "'योजना' विभागात शेतकऱ्यांसाठी उपलब्ध योजना पहा."
+  },
+  {
+    "ID": 11,
+    "Language": "English",
+    "User Query": "I can't log in to the portal.",
+    "Intent": "Login_Help",
+    "Response": "Check if your login credentials are correct. Use 'Forgot Password' if needed."
+  },
+  {
+    "ID": 12,
+    "Language": "Marathi",
+    "User Query": "मी पोर्टलमध्ये लॉगिन करू शकत नाही.",
+    "Intent": "Login_Help",
+    "Response": "आपले लॉगिन तपशील तपासा. पासवर्ड विसरलात का वापरा."
+  },
+  {
+    "ID": 13,
+    "Language": "English",
+    "User Query": "I did not receive my OTP.",
+    "Intent": "OTP_Issue",
+    "Response": "Please wait for 2 minutes or click 'Resend OTP' to try again."
+  },
+  {
+    "ID": 14,
+    "Language": "Marathi",
+    "User Query": "मला OTP मिळाला नाही.",
+    "Intent": "OTP_Issue",
+    "Response": "कृपया 2 मिनिटे प्रतीक्षा करा किंवा 'OTP पुन्हा पाठवा' क्लिक करा."
+  },
+  {
+    "ID": 15,
+    "Language": "English",
+    "User Query": "Can I attach documents to my complaint?",
+    "Intent": "Attach_Documents",
+    "Response": "Yes, you can upload PDF or image files as supporting documents."
+  },
+  {
+    "ID": 16,
+    "Language": "Marathi",
+    "User Query": "मी तक्रारीसोबत कागदपत्र जोडू शकतो का?",
+    "Intent": "Attach_Documents",
+    "Response": "होय, आपण PDF किंवा इमेज स्वरूपातील कागदपत्र जोडू शकता."
+  },
+  {
+    "ID": 17,
+    "Language": "English",
+    "User Query": "How long does it take to resolve a complaint?",
+    "Intent": "Resolution_Time",
+    "Response": "Grievances are typically resolved within 21 working days."
+  },
+  {
+    "ID": 18,
+    "Language": "Marathi",
+    "User Query": "तक्रार सोडवण्यासाठी किती वेळ लागतो?",
+    "Intent": "Resolution_Time",
+    "Response": "तक्रारी सहसा 21 कार्यदिवसांत सोडविल्या जातात."
+  },
+  {
+    "ID": 19,
+    "Language": "English",
+    "User Query": "My complaint is still unresolved, what can I do?",
+    "Intent": "Unresolved_Grievance",
+    "Response": "You can escalate unresolved grievances to the Nodal Officer."
+  },
+  {
+    "ID": 20,
+    "Language": "Marathi",
+    "User Query": "माझी तक्रार अजूनही प्रलंबित आहे, मी काय करू?",
+    "Intent": "Unresolved_Grievance",
+    "Response": "आपण नोडल अधिकाऱ्याकडे तक्रार पुढे जाऊ शकता."
+  },
+  {
+    "ID": 21,
+    "Language": "English",
+    "User Query": "How do I file a complaint?",
+    "Intent": "File_Complaint",
+    "Response": "You can file a complaint on the Aaple Sarkar portal by clicking on 'File Grievance'."
+  },
+  {
+    "ID": 22,
+    "Language": "Marathi",
+    "User Query": "मी तक्रार कशी दाखल करू?",
+    "Intent": "File_Complaint",
+    "Response": "आपण 'आपले सरकार' पोर्टलवर 'तक्रार नोंदवा' वर क्लिक करून तक्रार दाखल करू शकता."
+  },
+  {
+    "ID": 23,
+    "Language": "English",
+    "User Query": "What is the status of my complaint?",
+    "Intent": "Check_Status",
+    "Response": "Use your complaint number to track the status on the portal."
+  },
+  {
+    "ID": 24,
+    "Language": "Marathi",
+    "User Query": "माझ्या तक्रारीची स्थिती काय आहे?",
+    "Intent": "Check_Status",
+    "Response": "पोर्टलवर आपल्या तक्रारीचा क्रमांक वापरून स्थिती तपासा."
+  },
+  {
+    "ID": 25,
+    "Language": "English",
+    "User Query": "How to apply for caste certificate?",
+    "Intent": "Apply_Certificate",
+    "Response": "Go to Aaple Sarkar and choose 'Caste Certificate' under available services."
+  },
+  {
+    "ID": 26,
+    "Language": "Marathi",
+    "User Query": "जात प्रमाणपत्रासाठी अर्ज कसा करावा?",
+    "Intent": "Apply_Certificate",
+    "Response": "'आपले सरकार' पोर्टलवर जाऊन 'जात प्रमाणपत्र' सेवा निवडा."
+  },
+  {
+    "ID": 27,
+    "Language": "English",
+    "User Query": "I forgot my login password.",
+    "Intent": "Forgot_Password",
+    "Response": "Click 'Forgot Password' on the login screen to reset your password."
+  },
+  {
+    "ID": 28,
+    "Language": "Marathi",
+    "User Query": "मी माझा लॉगिन पासवर्ड विसरलो आहे.",
+    "Intent": "Forgot_Password",
+    "Response": "लॉगिन पेजवरील 'पासवर्ड विसरलात' या पर्यायाचा वापर करा."
+  },
+  {
+    "ID": 29,
+    "Language": "English",
+    "User Query": "What schemes are available for farmers?",
+    "Intent": "Scheme_Info",
+    "Response": "Visit the 'Schemes' section to see available schemes for farmers."
+  },
+  {
+    "ID": 30,
+    "Language": "Marathi",
+    "User Query": "शेतकऱ्यांसाठी कोणत्या योजना आहेत?",
+    "Intent": "Scheme_Info",
+    "Response": "'योजना' विभागात शेतकऱ्यांसाठी उपलब्ध योजना पहा."
+  },
+  {
+    "ID": 31,
+    "Language": "English",
+    "User Query": "I can't log in to the portal.",
+    "Intent": "Login_Help",
+    "Response": "Check if your login credentials are correct. Use 'Forgot Password' if needed."
+  },
+  {
+    "ID": 32,
+    "Language": "Marathi",
+    "User Query": "मी पोर्टलमध्ये लॉगिन करू शकत नाही.",
+    "Intent": "Login_Help",
+    "Response": "आपले लॉगिन तपशील तपासा. पासवर्ड विसरलात का वापरा."
+  },
+  {
+    "ID": 33,
+    "Language": "English",
+    "User Query": "I did not receive my OTP.",
+    "Intent": "OTP_Issue",
+    "Response": "Please wait for 2 minutes or click 'Resend OTP' to try again."
+  },
+  {
+    "ID": 34,
+    "Language": "Marathi",
+    "User Query": "मला OTP मिळाला नाही.",
+    "Intent": "OTP_Issue",
+    "Response": "कृपया 2 मिनिटे प्रतीक्षा करा किंवा 'OTP पुन्हा पाठवा' क्लिक करा."
+  },
+  {
+    "ID": 35,
+    "Language": "English",
+    "User Query": "Can I attach documents to my complaint?",
+    "Intent": "Attach_Documents",
+    "Response": "Yes, you can upload PDF or image files as supporting documents."
+  },
+  {
+    "ID": 36,
+    "Language": "Marathi",
+    "User Query": "मी तक्रारीसोबत कागदपत्र जोडू शकतो का?",
+    "Intent": "Attach_Documents",
+    "Response": "होय, आपण PDF किंवा इमेज स्वरूपातील कागदपत्र जोडू शकता."
+  },
+  {
+    "ID": 37,
+    "Language": "English",
+    "User Query": "How long does it take to resolve a complaint?",
+    "Intent": "Resolution_Time",
+    "Response": "Grievances are typically resolved within 21 working days."
+  },
+  {
+    "ID": 38,
+    "Language": "Marathi",
+    "User Query": "तक्रार सोडवण्यासाठी किती वेळ लागतो?",
+    "Intent": "Resolution_Time",
+    "Response": "तक्रारी सहसा 21 कार्यदिवसांत सोडविल्या जातात."
+  },
+  {
+    "ID": 39,
+    "Language": "English",
+    "User Query": "My complaint is still unresolved, what can I do?",
+    "Intent": "Unresolved_Grievance",
+    "Response": "You can escalate unresolved grievances to the Nodal Officer."
+  },
+  {
+    "ID": 40,
+    "Language": "Marathi",
+    "User Query": "माझी तक्रार अजूनही प्रलंबित आहे, मी काय करू?",
+    "Intent": "Unresolved_Grievance",
+    "Response": "आपण नोडल अधिकाऱ्याकडे तक्रार पुढे जाऊ शकता."
+  },
+  {
+    "ID": 41,
+    "Language": "English",
+    "User Query": "How do I file a complaint?",
+    "Intent": "File_Complaint",
+    "Response": "You can file a complaint on the Aaple Sarkar portal by clicking on 'File Grievance'."
+  },
+  {
+    "ID": 42,
+    "Language": "Marathi",
+    "User Query": "मी तक्रार कशी दाखल करू?",
+    "Intent": "File_Complaint",
+    "Response": "आपण 'आपले सरकार' पोर्टलवर 'तक्रार नोंदवा' वर क्लिक करून तक्रार दाखल करू शकता."
+  },
+  {
+    "ID": 43,
+    "Language": "English",
+    "User Query": "What is the status of my complaint?",
+    "Intent": "Check_Status",
+    "Response": "Use your complaint number to track the status on the portal."
+  },
+  {
+    "ID": 44,
+    "Language": "Marathi",
+    "User Query": "माझ्या तक्रारीची स्थिती काय आहे?",
+    "Intent": "Check_Status",
+    "Response": "पोर्टलवर आपल्या तक्रारीचा क्रमांक वापरून स्थिती तपासा."
+  },
+  {
+    "ID": 45,
+    "Language": "English",
+    "User Query": "How to apply for caste certificate?",
+    "Intent": "Apply_Certificate",
+    "Response": "Go to Aaple Sarkar and choose 'Caste Certificate' under available services."
+  },
+  {
+    "ID": 46,
+    "Language": "Marathi",
+    "User Query": "जात प्रमाणपत्रासाठी अर्ज कसा करावा?",
+    "Intent": "Apply_Certificate",
+    "Response": "'आपले सरकार' पोर्टलवर जाऊन 'जात प्रमाणपत्र' सेवा निवडा."
+  },
+  {
+    "ID": 47,
+    "Language": "English",
+    "User Query": "I forgot my login password.",
+    "Intent": "Forgot_Password",
+    "Response": "Click 'Forgot Password' on the login screen to reset your password."
+  },
+  {
+    "ID": 48,
+    "Language": "Marathi",
+    "User Query": "मी माझा लॉगिन पासवर्ड विसरलो आहे.",
+    "Intent": "Forgot_Password",
+    "Response": "लॉगिन पेजवरील 'पासवर्ड विसरलात' या पर्यायाचा वापर करा."
+  },
+  {
+    "ID": 49,
+    "Language": "English",
+    "User Query": "What schemes are available for farmers?",
+    "Intent": "Scheme_Info",
+    "Response": "Visit the 'Schemes' section to see available schemes for farmers."
+  },
+  {
+    "ID": 50,
+    "Language": "Marathi",
+    "User Query": "शेतकऱ्यांसाठी कोणत्या योजना आहेत?",
+    "Intent": "Scheme_Info",
+    "Response": "'योजना' विभागात शेतकऱ्यांसाठी उपलब्ध योजना पहा."
+  },
+  {
+    "ID": 51,
+    "Language": "English",
+    "User Query": "I can't log in to the portal.",
+    "Intent": "Login_Help",
+    "Response": "Check if your login credentials are correct. Use 'Forgot Password' if needed."
+  },
+  {
+    "ID": 52,
+    "Language": "Marathi",
+    "User Query": "मी पोर्टलमध्ये लॉगिन करू शकत नाही.",
+    "Intent": "Login_Help",
+    "Response": "आपले लॉगिन तपशील तपासा. पासवर्ड विसरलात का वापरा."
+  },
+  {
+    "ID": 53,
+    "Language": "English",
+    "User Query": "I did not receive my OTP.",
+    "Intent": "OTP_Issue",
+    "Response": "Please wait for 2 minutes or click 'Resend OTP' to try again."
+  },
+  {
+    "ID": 54,
+    "Language": "Marathi",
+    "User Query": "मला OTP मिळाला नाही.",
+    "Intent": "OTP_Issue",
+    "Response": "कृपया 2 मिनिटे प्रतीक्षा करा किंवा 'OTP पुन्हा पाठवा' क्लिक करा."
+  },
+  {
+    "ID": 55,
+    "Language": "English",
+    "User Query": "Can I attach documents to my complaint?",
+    "Intent": "Attach_Documents",
+    "Response": "Yes, you can upload PDF or image files as supporting documents."
+  },
+  {
+    "ID": 56,
+    "Language": "Marathi",
+    "User Query": "मी तक्रारीसोबत कागदपत्र जोडू शकतो का?",
+    "Intent": "Attach_Documents",
+    "Response": "होय, आपण PDF किंवा इमेज स्वरूपातील कागदपत्र जोडू शकता."
+  },
+  {
+    "ID": 57,
+    "Language": "English",
+    "User Query": "How long does it take to resolve a complaint?",
+    "Intent": "Resolution_Time",
+    "Response": "Grievances are typically resolved within 21 working days."
+  },
+  {
+    "ID": 58,
+    "Language": "Marathi",
+    "User Query": "तक्रार सोडवण्यासाठी किती वेळ लागतो?",
+    "Intent": "Resolution_Time",
+    "Response": "तक्रारी सहसा 21 कार्यदिवसांत सोडविल्या जातात."
+  },
+  {
+    "ID": 59,
+    "Language": "English",
+    "User Query": "My complaint is still unresolved, what can I do?",
+    "Intent": "Unresolved_Grievance",
+    "Response": "You can escalate unresolved grievances to the Nodal Officer."
+  },
+  {
+    "ID": 60,
+    "Language": "Marathi",
+    "User Query": "माझी तक्रार अजूनही प्रलंबित आहे, मी काय करू?",
+    "Intent": "Unresolved_Grievance",
+    "Response": "आपण नोडल अधिकाऱ्याकडे तक्रार पुढे जाऊ शकता."
+  },
+  {
+    "ID": 61,
+    "Language": "English",
+    "User Query": "How do I file a complaint?",
+    "Intent": "File_Complaint",
+    "Response": "You can file a complaint on the Aaple Sarkar portal by clicking on 'File Grievance'."
+  },
+  {
+    "ID": 62,
+    "Language": "Marathi",
+    "User Query": "मी तक्रार कशी दाखल करू?",
+    "Intent": "File_Complaint",
+    "Response": "आपण 'आपले सरकार' पोर्टलवर 'तक्रार नोंदवा' वर क्लिक करून तक्रार दाखल करू शकता."
+  },
+  {
+    "ID": 63,
+    "Language": "English",
+    "User Query": "What is the status of my complaint?",
+    "Intent": "Check_Status",
+    "Response": "Use your complaint number to track the status on the portal."
+  },
+  {
+    "ID": 64,
+    "Language": "Marathi",
+    "User Query": "माझ्या तक्रारीची स्थिती काय आहे?",
+    "Intent": "Check_Status",
+    "Response": "पोर्टलवर आपल्या तक्रारीचा क्रमांक वापरून स्थिती तपासा."
+  },
+  {
+    "ID": 65,
+    "Language": "English",
+    "User Query": "How to apply for caste certificate?",
+    "Intent": "Apply_Certificate",
+    "Response": "Go to Aaple Sarkar and choose 'Caste Certificate' under available services."
+  },
+  {
+    "ID": 66,
+    "Language": "Marathi",
+    "User Query": "जात प्रमाणपत्रासाठी अर्ज कसा करावा?",
+    "Intent": "Apply_Certificate",
+    "Response": "'आपले सरकार' पोर्टलवर जाऊन 'जात प्रमाणपत्र' सेवा निवडा."
+  },
+  {
+    "ID": 67,
+    "Language": "English",
+    "User Query": "I forgot my login password.",
+    "Intent": "Forgot_Password",
+    "Response": "Click 'Forgot Password' on the login screen to reset your password."
+  },
+  {
+    "ID": 68,
+    "Language": "Marathi",
+    "User Query": "मी माझा लॉगिन पासवर्ड विसरलो आहे.",
+    "Intent": "Forgot_Password",
+    "Response": "लॉगिन पेजवरील 'पासवर्ड विसरलात' या पर्यायाचा वापर करा."
+  },
+  {
+    "ID": 69,
+    "Language": "English",
+    "User Query": "What schemes are available for farmers?",
+    "Intent": "Scheme_Info",
+    "Response": "Visit the 'Schemes' section to see available schemes for farmers."
+  },
+  {
+    "ID": 70,
+    "Language": "Marathi",
+    "User Query": "शेतकऱ्यांसाठी कोणत्या योजना आहेत?",
+    "Intent": "Scheme_Info",
+    "Response": "'योजना' विभागात शेतकऱ्यांसाठी उपलब्ध योजना पहा."
+  },
+  {
+    "ID": 71,
+    "Language": "English",
+    "User Query": "I can't log in to the portal.",
+    "Intent": "Login_Help",
+    "Response": "Check if your login credentials are correct. Use 'Forgot Password' if needed."
+  },
+  {
+    "ID": 72,
+    "Language": "Marathi",
+    "User Query": "मी पोर्टलमध्ये लॉगिन करू शकत नाही.",
+    "Intent": "Login_Help",
+    "Response": "आपले लॉगिन तपशील तपासा. पासवर्ड विसरलात का वापरा."
+  },
+  {
+    "ID": 73,
+    "Language": "English",
+    "User Query": "I did not receive my OTP.",
+    "Intent": "OTP_Issue",
+    "Response": "Please wait for 2 minutes or click 'Resend OTP' to try again."
+  },
+  {
+    "ID": 74,
+    "Language": "Marathi",
+    "User Query": "मला OTP मिळाला नाही.",
+    "Intent": "OTP_Issue",
+    "Response": "कृपया 2 मिनिटे प्रतीक्षा करा किंवा 'OTP पुन्हा पाठवा' क्लिक करा."
+  },
+  {
+    "ID": 75,
+    "Language": "English",
+    "User Query": "Can I attach documents to my complaint?",
+    "Intent": "Attach_Documents",
+    "Response": "Yes, you can upload PDF or image files as supporting documents."
+  },
+  {
+    "ID": 76,
+    "Language": "Marathi",
+    "User Query": "मी तक्रारीसोबत कागदपत्र जोडू शकतो का?",
+    "Intent": "Attach_Documents",
+    "Response": "होय, आपण PDF किंवा इमेज स्वरूपातील कागदपत्र जोडू शकता."
+  },
+  {
+    "ID": 77,
+    "Language": "English",
+    "User Query": "How long does it take to resolve a complaint?",
+    "Intent": "Resolution_Time",
+    "Response": "Grievances are typically resolved within 21 working days."
+  },
+  {
+    "ID": 78,
+    "Language": "Marathi",
+    "User Query": "तक्रार सोडवण्यासाठी किती वेळ लागतो?",
+    "Intent": "Resolution_Time",
+    "Response": "तक्रारी सहसा 21 कार्यदिवसांत सोडविल्या जातात."
+  },
+  {
+    "ID": 79,
+    "Language": "English",
+    "User Query": "My complaint is still unresolved, what can I do?",
+    "Intent": "Unresolved_Grievance",
+    "Response": "You can escalate unresolved grievances to the Nodal Officer."
+  },
+  {
+    "ID": 80,
+    "Language": "Marathi",
+    "User Query": "माझी तक्रार अजूनही प्रलंबित आहे, मी काय करू?",
+    "Intent": "Unresolved_Grievance",
+    "Response": "आपण नोडल अधिकाऱ्याकडे तक्रार पुढे जाऊ शकता."
+  },
+  {
+    "ID": 81,
+    "Language": "English",
+    "User Query": "How do I file a complaint?",
+    "Intent": "File_Complaint",
+    "Response": "You can file a complaint on the Aaple Sarkar portal by clicking on 'File Grievance'."
+  },
+  {
+    "ID": 82,
+    "Language": "Marathi",
+    "User Query": "मी तक्रार कशी दाखल करू?",
+    "Intent": "File_Complaint",
+    "Response": "आपण 'आपले सरकार' पोर्टलवर 'तक्रार नोंदवा' वर क्लिक करून तक्रार दाखल करू शकता."
+  },
+  {
+    "ID": 83,
+    "Language": "English",
+    "User Query": "What is the status of my complaint?",
+    "Intent": "Check_Status",
+    "Response": "Use your complaint number to track the status on the portal."
+  },
+  {
+    "ID": 84,
+    "Language": "Marathi",
+    "User Query": "माझ्या तक्रारीची स्थिती काय आहे?",
+    "Intent": "Check_Status",
+    "Response": "पोर्टलवर आपल्या तक्रारीचा क्रमांक वापरून स्थिती तपासा."
+  },
+  {
+    "ID": 85,
+    "Language": "English",
+    "User Query": "How to apply for caste certificate?",
+    "Intent": "Apply_Certificate",
+    "Response": "Go to Aaple Sarkar and choose 'Caste Certificate' under available services."
+  },
+  {
+    "ID": 86,
+    "Language": "Marathi",
+    "User Query": "जात प्रमाणपत्रासाठी अर्ज कसा करावा?",
+    "Intent": "Apply_Certificate",
+    "Response": "'आपले सरकार' पोर्टलवर जाऊन 'जात प्रमाणपत्र' सेवा निवडा."
+  },
+  {
+    "ID": 87,
+    "Language": "English",
+    "User Query": "I forgot my login password.",
+    "Intent": "Forgot_Password",
+    "Response": "Click 'Forgot Password' on the login screen to reset your password."
+  },
+  {
+    "ID": 88,
+    "Language": "Marathi",
+    "User Query": "मी माझा लॉगिन पासवर्ड विसरलो आहे.",
+    "Intent": "Forgot_Password",
+    "Response": "लॉगिन पेजवरील 'पासवर्ड विसरलात' या पर्यायाचा वापर करा."
+  },
+  {
+    "ID": 89,
+    "Language": "English",
+    "User Query": "What schemes are available for farmers?",
+    "Intent": "Scheme_Info",
+    "Response": "Visit the 'Schemes' section to see available schemes for farmers."
+  },
+  {
+    "ID": 90,
+    "Language": "Marathi",
+    "User Query": "शेतकऱ्यांसाठी कोणत्या योजना आहेत?",
+    "Intent": "Scheme_Info",
+    "Response": "'योजना' विभागात शेतकऱ्यांसाठी उपलब्ध योजना पहा."
+  },
+  {
+    "ID": 91,
+    "Language": "English",
+    "User Query": "I can't log in to the portal.",
+    "Intent": "Login_Help",
+    "Response": "Check if your login credentials are correct. Use 'Forgot Password' if needed."
+  },
+  {
+    "ID": 92,
+    "Language": "Marathi",
+    "User Query": "मी पोर्टलमध्ये लॉगिन करू शकत नाही.",
+    "Intent": "Login_Help",
+    "Response": "आपले लॉगिन तपशील तपासा. पासवर्ड विसरलात का वापरा."
+  },
+  {
+    "ID": 93,
+    "Language": "English",
+    "User Query": "I did not receive my OTP.",
+    "Intent": "OTP_Issue",
+    "Response": "Please wait for 2 minutes or click 'Resend OTP' to try again."
+  },
+  {
+    "ID": 94,
+    "Language": "Marathi",
+    "User Query": "मला OTP मिळाला नाही.",
+    "Intent": "OTP_Issue",
+    "Response": "कृपया 2 मिनिटे प्रतीक्षा करा किंवा 'OTP पुन्हा पाठवा' क्लिक करा."
+  },
+  {
+    "ID": 95,
+    "Language": "English",
+    "User Query": "Can I attach documents to my complaint?",
+    "Intent": "Attach_Documents",
+    "Response": "Yes, you can upload PDF or image files as supporting documents."
+  },
+  {
+    "ID": 96,
+    "Language": "Marathi",
+    "User Query": "मी तक्रारीसोबत कागदपत्र जोडू शकतो का?",
+    "Intent": "Attach_Documents",
+    "Response": "होय, आपण PDF किंवा इमेज स्वरूपातील कागदपत्र जोडू शकता."
+  },
+  {
+    "ID": 97,
+    "Language": "English",
+    "User Query": "How long does it take to resolve a complaint?",
+    "Intent": "Resolution_Time",
+    "Response": "Grievances are typically resolved within 21 working days."
+  },
+  {
+    "ID": 98,
+    "Language": "Marathi",
+    "User Query": "तक्रार सोडवण्यासाठी किती वेळ लागतो?",
+    "Intent": "Resolution_Time",
+    "Response": "तक्रारी सहसा 21 कार्यदिवसांत सोडविल्या जातात."
+  },
+  {
+    "ID": 99,
+    "Language": "English",
+    "User Query": "My complaint is still unresolved, what can I do?",
+    "Intent": "Unresolved_Grievance",
+    "Response": "You can escalate unresolved grievances to the Nodal Officer."
+  },
+  {
+    "ID": 100,
+    "Language": "Marathi",
+    "User Query": "माझी तक्रार अजूनही प्रलंबित आहे, मी काय करू?",
+    "Intent": "Unresolved_Grievance",
+    "Response": "आपण नोडल अधिकाऱ्याकडे तक्रार पुढे जाऊ शकता."
+  },
+  {
+    "Language": "English",
+    "User Query": "What documents are required for income certificate?",
+    "Intent": "Certificate_Info_Documents",
+    "Response": "To apply for an Income Certificate, you need ID proof (Aadhaar), address proof, and income proof such as salary slip or Form 16.",
+    "ID": 101
+  },
+  {
+    "Language": "Marathi",
+    "User Query": "उत्पन्न प्रमाणपत्रासाठी कोणती कागदपत्रे आवश्यक आहेत?",
+    "Intent": "Certificate_Info_Documents",
+    "Response": "उत्पन्न प्रमाणपत्रासाठी, आधार कार्ड, पत्त्याचा पुरावा, आणि पगार पावती किंवा फॉर्म 16 यासारखे उत्पन्नाचे पुरावे आवश्यक आहेत.",
+    "ID": 102
+  },
+  {
+    "Language": "English",
+    "User Query": "How many days will it take to get a caste certificate?",
+    "Intent": "Certificate_Processing_Time",
+    "Response": "Generally, it takes 15 working days to issue a caste certificate.",
+    "ID": 103
+  },
+  {
+    "Language": "Marathi",
+    "User Query": "जात प्रमाणपत्र मिळण्यास किती दिवस लागतील?",
+    "Intent": "Certificate_Processing_Time",
+    "Response": "जात प्रमाणपत्र मिळण्यासाठी सामान्यतः १५ कार्यदिवस लागतात.",
+    "ID": 104
+  },
+  {
+    "Language": "English",
+    "User Query": "What is the fee for domicile certificate?",
+    "Intent": "Certificate_Fee",
+    "Response": "The fee for a domicile certificate application is ₹50.",
+    "ID": 105
+  },
+  {
+    "Language": "Marathi",
+    "User Query": "रहिवासी प्रमाणपत्रासाठी किती फी लागते?",
+    "Intent": "Certificate_Fee",
+    "Response": "रहिवासी प्रमाणपत्रासाठी अर्जाची फी ₹५० आहे.",
+    "ID": 106
+  },
+  {
+    "Language": "English",
+    "User Query": "How will I know when my certificate is ready?",
+    "Intent": "Certificate_Notification",
+    "Response": "You will receive an SMS and email once your certificate is issued. You can also track it on the portal.",
+    "ID": 107
+  },
+  {
+    "Language": "Marathi",
+    "User Query": "माझे प्रमाणपत्र तयार झाल्यावर मला कसे कळेल?",
+    "Intent": "Certificate_Notification",
+    "Response": "प्रमाणपत्र जारी झाल्यावर तुम्हाला SMS आणि ईमेल प्राप्त होईल. तुम्ही पोर्टलवरही ट्रॅक करू शकता.",
+    "ID": 108
+  },
+  {
+    "Language": "English",
+    "User Query": "What is the process to apply for birth certificate online?",
+    "Intent": "Certificate_Process",
+    "Response": "Visit Aaple Sarkar, log in, choose 'Birth Certificate', fill the form, upload documents, and submit the application.",
+    "ID": 109
+  },
+  {
+    "Language": "Marathi",
+    "User Query": "जन्म प्रमाणपत्रासाठी ऑनलाइन अर्ज करण्याची प्रक्रिया काय आहे?",
+    "Intent": "Certificate_Process",
+    "Response": "आपले सरकार पोर्टलवर जा, लॉगिन करा, 'जन्म प्रमाणपत्र' निवडा, फॉर्म भरा, कागदपत्रे अपलोड करा आणि अर्ज सबमिट करा.",
+    "ID": 110
+  },
+  {
+    "User Query": "How can I apply for a new ration card?",
+    "Intent": "RationCard_Apply",
+    "Response": "You can apply online through the Aaple Sarkar portal under 'Ration Card' services.",
+    "Language": "English",
+    "ID": 111
+  },
+  {
+    "User Query": "मी नवीन रेशन कार्डसाठी अर्ज कसा करू शकतो?",
+    "Intent": "RationCard_Apply",
+    "Response": "आपण 'आपले सरकार' पोर्टलवरील 'रेशन कार्ड' सेवेतून ऑनलाइन अर्ज करू शकता.",
+    "Language": "Marathi",
+    "ID": 112
+  },
+  {
+    "User Query": "How to check my ration card application status?",
+    "Intent": "RationCard_Status",
+    "Response": "Visit the Aaple Sarkar portal and use your application ID to check status.",
+    "Language": "English",
+    "ID": 113
+  },
+  {
+    "User Query": "माझ्या रेशन कार्ड अर्जाची स्थिती कशी तपासायची?",
+    "Intent": "RationCard_Status",
+    "Response": "आपले सरकार पोर्टलवर अर्ज क्रमांक वापरून स्थिती तपासा.",
+    "Language": "Marathi",
+    "ID": 114
+  },
+  {
+    "User Query": "What is the eligibility for old age pension?",
+    "Intent": "Pension_Eligibility",
+    "Response": "Applicants must be above 60 years of age and meet income criteria to avail old age pension.",
+    "Language": "English",
+    "ID": 115
+  },
+  {
+    "User Query": "जुनी वयस्कर निवृत्तीवेतनासाठी पात्रता काय आहे?",
+    "Intent": "Pension_Eligibility",
+    "Response": "जुनी वयस्कर निवृत्तीवेतनासाठी अर्जदाराचे वय ६० वर्षांपेक्षा जास्त असावे आणि उत्पन्न निकष पूर्ण करावा लागतो.",
+    "Language": "Marathi",
+    "ID": 116
+  },
+  {
+    "User Query": "How to apply for pension online?",
+    "Intent": "Pension_Apply",
+    "Response": "You can apply through the Social Justice section on the Aaple Sarkar portal.",
+    "Language": "English",
+    "ID": 117
+  },
+  {
+    "User Query": "निवृत्तीवेतनासाठी ऑनलाइन अर्ज कसा करायचा?",
+    "Intent": "Pension_Apply",
+    "Response": "आपले सरकार पोर्टलवरील सामाजिक न्याय विभागामधून अर्ज करू शकता.",
+    "Language": "Marathi",
+    "ID": 118
+  },
+  {
+    "User Query": "What is MahaDBT portal?",
+    "Intent": "MahaDBT_Info",
+    "Response": "MahaDBT is a Direct Benefit Transfer portal for government schemes like scholarships and subsidies.",
+    "Language": "English",
+    "ID": 119
+  },
+  {
+    "User Query": "महाडीबीटी पोर्टल म्हणजे काय?",
+    "Intent": "MahaDBT_Info",
+    "Response": "महाडीबीटी हे शिष्यवृत्ती व अनुदानासाठीचे थेट लाभ हस्तांतरण पोर्टल आहे.",
+    "Language": "Marathi",
+    "ID": 120
+  },
+  {
+    "User Query": "How to apply for a MahaDBT scholarship?",
+    "Intent": "MahaDBT_Apply",
+    "Response": "Register on MahaDBT, log in, and apply under the appropriate department scheme.",
+    "Language": "English",
+    "ID": 121
+  },
+  {
+    "User Query": "महाडीबीटी शिष्यवृत्तीसाठी अर्ज कसा करावा?",
+    "Intent": "MahaDBT_Apply",
+    "Response": "महाडीबीटीवर नोंदणी करा, लॉगिन करा आणि योग्य योजनेअंतर्गत अर्ज करा.",
+    "Language": "Marathi",
+    "ID": 122
+  },
+  {
+    "User Query": "How to get my 7/12 extract online?",
+    "Intent": "LandRecords_7_12",
+    "Response": "Visit Mahabhulekh website and search by district, taluka, and village to download 7/12.",
+    "Language": "English",
+    "ID": 123
+  },
+  {
+    "User Query": "७/१२ उतारा ऑनलाइन कसा मिळवावा?",
+    "Intent": "LandRecords_7_12",
+    "Response": "महाभुलेख संकेतस्थळावर जाऊन जिल्हा, तालुका आणि गावानुसार शोधून ७/१२ उतारा डाउनलोड करा.",
+    "Language": "Marathi",
+    "ID": 124
+  },
+  {
+    "User Query": "What documents are required to update 7/12 extract?",
+    "Intent": "LandRecords_Documents",
+    "Response": "You will need property proof, Aadhaar card, and mutation entry copy.",
+    "Language": "English",
+    "ID": 125
+  },
+  {
+    "User Query": "७/१२ उतारा अद्ययावत करण्यासाठी कोणती कागदपत्रे लागतात?",
+    "Intent": "LandRecords_Documents",
+    "Response": "संपत्तीचा पुरावा, आधार कार्ड, व फेरफार नोंद याची प्रत आवश्यक आहे.",
+    "Language": "Marathi",
+    "ID": 126
+  },
+  {
+    "User Query": "How can I update my mobile number in Aadhaar?",
+    "Intent": "Aadhaar_Update",
+    "Response": "Visit your nearest Aadhaar Seva Kendra with identity proof to update mobile number.",
+    "Language": "English",
+    "ID": 127
+  },
+  {
+    "User Query": "आधारमध्ये मोबाईल नंबर कसा अद्ययावत करायचा?",
+    "Intent": "Aadhaar_Update",
+    "Response": "ओळखीचा पुरावा घेऊन जवळच्या आधार सेवा केंद्रात जा आणि मोबाईल नंबर अपडेट करा.",
+    "Language": "Marathi",
+    "ID": 128
+  },
+  {
+    "User Query": "How to check if my Aadhaar is linked to ration card?",
+    "Intent": "Aadhaar_Link_Status",
+    "Response": "Check Aadhaar seeding status on UIDAI or state PDS portal.",
+    "Language": "English",
+    "ID": 129
+  },
+  {
+    "User Query": "माझा आधार रेशन कार्डशी लिंक झाला आहे का ते कसे तपासायचे?",
+    "Intent": "Aadhaar_Link_Status",
+    "Response": "UIDAI किंवा राज्याच्या PDS पोर्टलवर आधार लिंक स्थिती तपासा.",
+    "Language": "Marathi",
+    "ID": 130
+  }
+]

@@ -1,0 +1,1328 @@
+{
+  "Help_Info": {
+    "queries": [
+      {
+        "text": "how can you help me",
+        "lang": "en"
+      },
+      {
+        "text": "what can you do",
+        "lang": "en"
+      },
+      {
+        "text": "can you help me",
+        "lang": "en"
+      },
+      {
+        "text": "how will you help me",
+        "lang": "en"
+      },
+      {
+        "text": "तुम्ही मला कशी मदत करू शकता",
+        "lang": "mr"
+      },
+      {
+        "text": "तुमचं काम काय आहे",
+        "lang": "mr"
+      },
+      {
+        "text": "काय करू शकता",
+        "lang": "mr"
+      },
+      {
+        "text": "तुम्ही काय करू शकता",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "I can help you file complaints, check the status of your grievances, and guide you with Aaple Sarkar services. Ask me anything!",
+        "lang": "en"
+      },
+      {
+        "text": "Think of me as your digital assistant! I can help analyze your queries and provide solutions for various government services.",
+        "lang": "en"
+      },
+      {
+        "text": "I assist with services like caste/income certificate, grievance filing, and more. Just tell me what you need help with!",
+        "lang": "en"
+      },
+      {
+        "text": "मी तुम्हाला तक्रारी दाखल करण्यात, त्यांच्या स्थितीबद्दल माहिती मिळवून देण्यात, आणि 'आपले सरकार' पोर्टलशी संबंधित सेवा समजावून सांगण्यात मदत करू शकतो.",
+        "lang": "mr"
+      },
+      {
+        "text": "मी तुमच्या शंका समजावून घेऊन त्यासाठी योग्य उपाय सांगतो. तुमचा सरकारी सेवा अनुभव सोपा करण्यासाठी मी येथे आहे.",
+        "lang": "mr"
+      },
+      {
+        "text": "तुम्ही काय हवे ते सांगा – जात प्रमाणपत्र, उत्पन्न प्रमाणपत्र, किंवा तक्रार – मी मदतीला तत्पर आहे!",
+        "lang": "mr"
+      }
+    ]
+  },
+  "Greetings": {
+    "queries": [
+      {
+        "text": "hi",
+        "lang": "en"
+      },
+      {
+        "text": "hello",
+        "lang": "en"
+      },
+      {
+        "text": "hey",
+        "lang": "en"
+      },
+      {
+        "text": "good morning",
+        "lang": "en"
+      },
+      {
+        "text": "good evening",
+        "lang": "en"
+      },
+      {
+        "text": "namaste",
+        "lang": "en"
+      },
+      {
+        "text": "नमस्कार",
+        "lang": "mr"
+      },
+      {
+        "text": "हाय",
+        "lang": "mr"
+      },
+      {
+        "text": "हॅलो",
+        "lang": "mr"
+      },
+      {
+        "text": "शुभ सकाळ",
+        "lang": "mr"
+      },
+      {
+        "text": "शुभ संध्या",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "Hello there! How can I assist you with Aaple Sarkar services today?",
+        "lang": "en"
+      },
+      {
+        "text": "Namaste! I'm here to help you file complaints, get certificates, and more. Ask away!",
+        "lang": "en"
+      },
+      {
+        "text": "Hi! Ready when you are 😊 Just tell me what you need help with.",
+        "lang": "en"
+      },
+      {
+        "text": "नमस्कार! मी आपली कशी मदत करू शकतो ते सांगा.",
+        "lang": "mr"
+      },
+      {
+        "text": "हॅलो! आपले सरकार सेवा सोपी करण्यासाठी मी येथे आहे.",
+        "lang": "mr"
+      },
+      {
+        "text": "शुभेच्छा! तक्रारी, प्रमाणपत्रे किंवा काहीही – मी मदतीला तत्पर आहे!",
+        "lang": "mr"
+      }
+    ]
+  },
+  "File_Complaint": {
+    "queries": [
+      {
+        "text": "How do I file a complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "मी तक्रार कशी दाखल करू?",
+        "lang": "mr"
+      },
+      {
+        "text": "How do I file a complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "मी तक्रार कशी दाखल करू?",
+        "lang": "mr"
+      },
+      {
+        "text": "How do I file a complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "मी तक्रार कशी दाखल करू?",
+        "lang": "mr"
+      },
+      {
+        "text": "How do I file a complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "मी तक्रार कशी दाखल करू?",
+        "lang": "mr"
+      },
+      {
+        "text": "How do I file a complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "मी तक्रार कशी दाखल करू?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "You can file a complaint on the Aaple Sarkar portal by clicking on 'File Grievance'.",
+        "lang": "en"
+      },
+      {
+        "text": "आपण 'आपले सरकार' पोर्टलवर 'तक्रार नोंदवा' वर क्लिक करून तक्रार दाखल करू शकता.",
+        "lang": "mr"
+      },
+      {
+        "text": "You can file a complaint on the Aaple Sarkar portal by clicking on 'File Grievance'.",
+        "lang": "en"
+      },
+      {
+        "text": "आपण 'आपले सरकार' पोर्टलवर 'तक्रार नोंदवा' वर क्लिक करून तक्रार दाखल करू शकता.",
+        "lang": "mr"
+      },
+      {
+        "text": "You can file a complaint on the Aaple Sarkar portal by clicking on 'File Grievance'.",
+        "lang": "en"
+      },
+      {
+        "text": "आपण 'आपले सरकार' पोर्टलवर 'तक्रार नोंदवा' वर क्लिक करून तक्रार दाखल करू शकता.",
+        "lang": "mr"
+      },
+      {
+        "text": "You can file a complaint on the Aaple Sarkar portal by clicking on 'File Grievance'.",
+        "lang": "en"
+      },
+      {
+        "text": "आपण 'आपले सरकार' पोर्टलवर 'तक्रार नोंदवा' वर क्लिक करून तक्रार दाखल करू शकता.",
+        "lang": "mr"
+      },
+      {
+        "text": "You can file a complaint on the Aaple Sarkar portal by clicking on 'File Grievance'.",
+        "lang": "en"
+      },
+      {
+        "text": "आपण 'आपले सरकार' पोर्टलवर 'तक्रार नोंदवा' वर क्लिक करून तक्रार दाखल करू शकता.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "Check_Status": {
+    "queries": [
+      {
+        "text": "What is the status of my complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "माझ्या तक्रारीची स्थिती काय आहे?",
+        "lang": "mr"
+      },
+      {
+        "text": "What is the status of my complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "माझ्या तक्रारीची स्थिती काय आहे?",
+        "lang": "mr"
+      },
+      {
+        "text": "What is the status of my complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "माझ्या तक्रारीची स्थिती काय आहे?",
+        "lang": "mr"
+      },
+      {
+        "text": "What is the status of my complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "माझ्या तक्रारीची स्थिती काय आहे?",
+        "lang": "mr"
+      },
+      {
+        "text": "What is the status of my complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "माझ्या तक्रारीची स्थिती काय आहे?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "Use your complaint number to track the status on the portal.",
+        "lang": "en"
+      },
+      {
+        "text": "पोर्टलवर आपल्या तक्रारीचा क्रमांक वापरून स्थिती तपासा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Use your complaint number to track the status on the portal.",
+        "lang": "en"
+      },
+      {
+        "text": "पोर्टलवर आपल्या तक्रारीचा क्रमांक वापरून स्थिती तपासा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Use your complaint number to track the status on the portal.",
+        "lang": "en"
+      },
+      {
+        "text": "पोर्टलवर आपल्या तक्रारीचा क्रमांक वापरून स्थिती तपासा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Use your complaint number to track the status on the portal.",
+        "lang": "en"
+      },
+      {
+        "text": "पोर्टलवर आपल्या तक्रारीचा क्रमांक वापरून स्थिती तपासा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Use your complaint number to track the status on the portal.",
+        "lang": "en"
+      },
+      {
+        "text": "पोर्टलवर आपल्या तक्रारीचा क्रमांक वापरून स्थिती तपासा.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "Apply_Certificate": {
+    "queries": [
+      {
+        "text": "How to apply for caste certificate?",
+        "lang": "en"
+      },
+      {
+        "text": "जात प्रमाणपत्रासाठी अर्ज कसा करावा?",
+        "lang": "mr"
+      },
+      {
+        "text": "How to apply for caste certificate?",
+        "lang": "en"
+      },
+      {
+        "text": "जात प्रमाणपत्रासाठी अर्ज कसा करावा?",
+        "lang": "mr"
+      },
+      {
+        "text": "How to apply for caste certificate?",
+        "lang": "en"
+      },
+      {
+        "text": "जात प्रमाणपत्रासाठी अर्ज कसा करावा?",
+        "lang": "mr"
+      },
+      {
+        "text": "How to apply for caste certificate?",
+        "lang": "en"
+      },
+      {
+        "text": "जात प्रमाणपत्रासाठी अर्ज कसा करावा?",
+        "lang": "mr"
+      },
+      {
+        "text": "How to apply for caste certificate?",
+        "lang": "en"
+      },
+      {
+        "text": "जात प्रमाणपत्रासाठी अर्ज कसा करावा?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "Go to Aaple Sarkar and choose 'Caste Certificate' under available services.",
+        "lang": "en"
+      },
+      {
+        "text": "'आपले सरकार' पोर्टलवर जाऊन 'जात प्रमाणपत्र' सेवा निवडा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Go to Aaple Sarkar and choose 'Caste Certificate' under available services.",
+        "lang": "en"
+      },
+      {
+        "text": "'आपले सरकार' पोर्टलवर जाऊन 'जात प्रमाणपत्र' सेवा निवडा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Go to Aaple Sarkar and choose 'Caste Certificate' under available services.",
+        "lang": "en"
+      },
+      {
+        "text": "'आपले सरकार' पोर्टलवर जाऊन 'जात प्रमाणपत्र' सेवा निवडा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Go to Aaple Sarkar and choose 'Caste Certificate' under available services.",
+        "lang": "en"
+      },
+      {
+        "text": "'आपले सरकार' पोर्टलवर जाऊन 'जात प्रमाणपत्र' सेवा निवडा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Go to Aaple Sarkar and choose 'Caste Certificate' under available services.",
+        "lang": "en"
+      },
+      {
+        "text": "'आपले सरकार' पोर्टलवर जाऊन 'जात प्रमाणपत्र' सेवा निवडा.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "Forgot_Password": {
+    "queries": [
+      {
+        "text": "I forgot my login password.",
+        "lang": "en"
+      },
+      {
+        "text": "मी माझा लॉगिन पासवर्ड विसरलो आहे.",
+        "lang": "mr"
+      },
+      {
+        "text": "I forgot my login password.",
+        "lang": "en"
+      },
+      {
+        "text": "मी माझा लॉगिन पासवर्ड विसरलो आहे.",
+        "lang": "mr"
+      },
+      {
+        "text": "I forgot my login password.",
+        "lang": "en"
+      },
+      {
+        "text": "मी माझा लॉगिन पासवर्ड विसरलो आहे.",
+        "lang": "mr"
+      },
+      {
+        "text": "I forgot my login password.",
+        "lang": "en"
+      },
+      {
+        "text": "मी माझा लॉगिन पासवर्ड विसरलो आहे.",
+        "lang": "mr"
+      },
+      {
+        "text": "I forgot my login password.",
+        "lang": "en"
+      },
+      {
+        "text": "मी माझा लॉगिन पासवर्ड विसरलो आहे.",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "Click 'Forgot Password' on the login screen to reset your password.",
+        "lang": "en"
+      },
+      {
+        "text": "लॉगिन पेजवरील 'पासवर्ड विसरलात' या पर्यायाचा वापर करा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Click 'Forgot Password' on the login screen to reset your password.",
+        "lang": "en"
+      },
+      {
+        "text": "लॉगिन पेजवरील 'पासवर्ड विसरलात' या पर्यायाचा वापर करा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Click 'Forgot Password' on the login screen to reset your password.",
+        "lang": "en"
+      },
+      {
+        "text": "लॉगिन पेजवरील 'पासवर्ड विसरलात' या पर्यायाचा वापर करा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Click 'Forgot Password' on the login screen to reset your password.",
+        "lang": "en"
+      },
+      {
+        "text": "लॉगिन पेजवरील 'पासवर्ड विसरलात' या पर्यायाचा वापर करा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Click 'Forgot Password' on the login screen to reset your password.",
+        "lang": "en"
+      },
+      {
+        "text": "लॉगिन पेजवरील 'पासवर्ड विसरलात' या पर्यायाचा वापर करा.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "Scheme_Info": {
+    "queries": [
+      {
+        "text": "What schemes are available for farmers?",
+        "lang": "en"
+      },
+      {
+        "text": "शेतकऱ्यांसाठी कोणत्या योजना आहेत?",
+        "lang": "mr"
+      },
+      {
+        "text": "What schemes are available for farmers?",
+        "lang": "en"
+      },
+      {
+        "text": "शेतकऱ्यांसाठी कोणत्या योजना आहेत?",
+        "lang": "mr"
+      },
+      {
+        "text": "What schemes are available for farmers?",
+        "lang": "en"
+      },
+      {
+        "text": "शेतकऱ्यांसाठी कोणत्या योजना आहेत?",
+        "lang": "mr"
+      },
+      {
+        "text": "What schemes are available for farmers?",
+        "lang": "en"
+      },
+      {
+        "text": "शेतकऱ्यांसाठी कोणत्या योजना आहेत?",
+        "lang": "mr"
+      },
+      {
+        "text": "What schemes are available for farmers?",
+        "lang": "en"
+      },
+      {
+        "text": "शेतकऱ्यांसाठी कोणत्या योजना आहेत?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "Visit the 'Schemes' section to see available schemes for farmers.",
+        "lang": "en"
+      },
+      {
+        "text": "'योजना' विभागात शेतकऱ्यांसाठी उपलब्ध योजना पहा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Visit the 'Schemes' section to see available schemes for farmers.",
+        "lang": "en"
+      },
+      {
+        "text": "'योजना' विभागात शेतकऱ्यांसाठी उपलब्ध योजना पहा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Visit the 'Schemes' section to see available schemes for farmers.",
+        "lang": "en"
+      },
+      {
+        "text": "'योजना' विभागात शेतकऱ्यांसाठी उपलब्ध योजना पहा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Visit the 'Schemes' section to see available schemes for farmers.",
+        "lang": "en"
+      },
+      {
+        "text": "'योजना' विभागात शेतकऱ्यांसाठी उपलब्ध योजना पहा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Visit the 'Schemes' section to see available schemes for farmers.",
+        "lang": "en"
+      },
+      {
+        "text": "'योजना' विभागात शेतकऱ्यांसाठी उपलब्ध योजना पहा.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "Login_Help": {
+    "queries": [
+      {
+        "text": "I can't log in to the portal.",
+        "lang": "en"
+      },
+      {
+        "text": "मी पोर्टलमध्ये लॉगिन करू शकत नाही.",
+        "lang": "mr"
+      },
+      {
+        "text": "I can't log in to the portal.",
+        "lang": "en"
+      },
+      {
+        "text": "मी पोर्टलमध्ये लॉगिन करू शकत नाही.",
+        "lang": "mr"
+      },
+      {
+        "text": "I can't log in to the portal.",
+        "lang": "en"
+      },
+      {
+        "text": "मी पोर्टलमध्ये लॉगिन करू शकत नाही.",
+        "lang": "mr"
+      },
+      {
+        "text": "I can't log in to the portal.",
+        "lang": "en"
+      },
+      {
+        "text": "मी पोर्टलमध्ये लॉगिन करू शकत नाही.",
+        "lang": "mr"
+      },
+      {
+        "text": "I can't log in to the portal.",
+        "lang": "en"
+      },
+      {
+        "text": "मी पोर्टलमध्ये लॉगिन करू शकत नाही.",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "Check if your login credentials are correct. Use 'Forgot Password' if needed.",
+        "lang": "en"
+      },
+      {
+        "text": "आपले लॉगिन तपशील तपासा. पासवर्ड विसरलात का वापरा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Check if your login credentials are correct. Use 'Forgot Password' if needed.",
+        "lang": "en"
+      },
+      {
+        "text": "आपले लॉगिन तपशील तपासा. पासवर्ड विसरलात का वापरा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Check if your login credentials are correct. Use 'Forgot Password' if needed.",
+        "lang": "en"
+      },
+      {
+        "text": "आपले लॉगिन तपशील तपासा. पासवर्ड विसरलात का वापरा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Check if your login credentials are correct. Use 'Forgot Password' if needed.",
+        "lang": "en"
+      },
+      {
+        "text": "आपले लॉगिन तपशील तपासा. पासवर्ड विसरलात का वापरा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Check if your login credentials are correct. Use 'Forgot Password' if needed.",
+        "lang": "en"
+      },
+      {
+        "text": "आपले लॉगिन तपशील तपासा. पासवर्ड विसरलात का वापरा.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "OTP_Issue": {
+    "queries": [
+      {
+        "text": "I did not receive my OTP.",
+        "lang": "en"
+      },
+      {
+        "text": "मला OTP मिळाला नाही.",
+        "lang": "mr"
+      },
+      {
+        "text": "I did not receive my OTP.",
+        "lang": "en"
+      },
+      {
+        "text": "मला OTP मिळाला नाही.",
+        "lang": "mr"
+      },
+      {
+        "text": "I did not receive my OTP.",
+        "lang": "en"
+      },
+      {
+        "text": "मला OTP मिळाला नाही.",
+        "lang": "mr"
+      },
+      {
+        "text": "I did not receive my OTP.",
+        "lang": "en"
+      },
+      {
+        "text": "मला OTP मिळाला नाही.",
+        "lang": "mr"
+      },
+      {
+        "text": "I did not receive my OTP.",
+        "lang": "en"
+      },
+      {
+        "text": "मला OTP मिळाला नाही.",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "Please wait for 2 minutes or click 'Resend OTP' to try again.",
+        "lang": "en"
+      },
+      {
+        "text": "कृपया 2 मिनिटे प्रतीक्षा करा किंवा 'OTP पुन्हा पाठवा' क्लिक करा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Please wait for 2 minutes or click 'Resend OTP' to try again.",
+        "lang": "en"
+      },
+      {
+        "text": "कृपया 2 मिनिटे प्रतीक्षा करा किंवा 'OTP पुन्हा पाठवा' क्लिक करा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Please wait for 2 minutes or click 'Resend OTP' to try again.",
+        "lang": "en"
+      },
+      {
+        "text": "कृपया 2 मिनिटे प्रतीक्षा करा किंवा 'OTP पुन्हा पाठवा' क्लिक करा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Please wait for 2 minutes or click 'Resend OTP' to try again.",
+        "lang": "en"
+      },
+      {
+        "text": "कृपया 2 मिनिटे प्रतीक्षा करा किंवा 'OTP पुन्हा पाठवा' क्लिक करा.",
+        "lang": "mr"
+      },
+      {
+        "text": "Please wait for 2 minutes or click 'Resend OTP' to try again.",
+        "lang": "en"
+      },
+      {
+        "text": "कृपया 2 मिनिटे प्रतीक्षा करा किंवा 'OTP पुन्हा पाठवा' क्लिक करा.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "Attach_Documents": {
+    "queries": [
+      {
+        "text": "Can I attach documents to my complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "मी तक्रारीसोबत कागदपत्र जोडू शकतो का?",
+        "lang": "mr"
+      },
+      {
+        "text": "Can I attach documents to my complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "मी तक्रारीसोबत कागदपत्र जोडू शकतो का?",
+        "lang": "mr"
+      },
+      {
+        "text": "Can I attach documents to my complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "मी तक्रारीसोबत कागदपत्र जोडू शकतो का?",
+        "lang": "mr"
+      },
+      {
+        "text": "Can I attach documents to my complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "मी तक्रारीसोबत कागदपत्र जोडू शकतो का?",
+        "lang": "mr"
+      },
+      {
+        "text": "Can I attach documents to my complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "मी तक्रारीसोबत कागदपत्र जोडू शकतो का?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "Yes, you can upload PDF or image files as supporting documents.",
+        "lang": "en"
+      },
+      {
+        "text": "होय, आपण PDF किंवा इमेज स्वरूपातील कागदपत्र जोडू शकता.",
+        "lang": "mr"
+      },
+      {
+        "text": "Yes, you can upload PDF or image files as supporting documents.",
+        "lang": "en"
+      },
+      {
+        "text": "होय, आपण PDF किंवा इमेज स्वरूपातील कागदपत्र जोडू शकता.",
+        "lang": "mr"
+      },
+      {
+        "text": "Yes, you can upload PDF or image files as supporting documents.",
+        "lang": "en"
+      },
+      {
+        "text": "होय, आपण PDF किंवा इमेज स्वरूपातील कागदपत्र जोडू शकता.",
+        "lang": "mr"
+      },
+      {
+        "text": "Yes, you can upload PDF or image files as supporting documents.",
+        "lang": "en"
+      },
+      {
+        "text": "होय, आपण PDF किंवा इमेज स्वरूपातील कागदपत्र जोडू शकता.",
+        "lang": "mr"
+      },
+      {
+        "text": "Yes, you can upload PDF or image files as supporting documents.",
+        "lang": "en"
+      },
+      {
+        "text": "होय, आपण PDF किंवा इमेज स्वरूपातील कागदपत्र जोडू शकता.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "Resolution_Time": {
+    "queries": [
+      {
+        "text": "How long does it take to resolve a complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "तक्रार सोडवण्यासाठी किती वेळ लागतो?",
+        "lang": "mr"
+      },
+      {
+        "text": "How long does it take to resolve a complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "तक्रार सोडवण्यासाठी किती वेळ लागतो?",
+        "lang": "mr"
+      },
+      {
+        "text": "How long does it take to resolve a complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "तक्रार सोडवण्यासाठी किती वेळ लागतो?",
+        "lang": "mr"
+      },
+      {
+        "text": "How long does it take to resolve a complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "तक्रार सोडवण्यासाठी किती वेळ लागतो?",
+        "lang": "mr"
+      },
+      {
+        "text": "How long does it take to resolve a complaint?",
+        "lang": "en"
+      },
+      {
+        "text": "तक्रार सोडवण्यासाठी किती वेळ लागतो?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "Grievances are typically resolved within 21 working days.",
+        "lang": "en"
+      },
+      {
+        "text": "तक्रारी सहसा 21 कार्यदिवसांत सोडविल्या जातात.",
+        "lang": "mr"
+      },
+      {
+        "text": "Grievances are typically resolved within 21 working days.",
+        "lang": "en"
+      },
+      {
+        "text": "तक्रारी सहसा 21 कार्यदिवसांत सोडविल्या जातात.",
+        "lang": "mr"
+      },
+      {
+        "text": "Grievances are typically resolved within 21 working days.",
+        "lang": "en"
+      },
+      {
+        "text": "तक्रारी सहसा 21 कार्यदिवसांत सोडविल्या जातात.",
+        "lang": "mr"
+      },
+      {
+        "text": "Grievances are typically resolved within 21 working days.",
+        "lang": "en"
+      },
+      {
+        "text": "तक्रारी सहसा 21 कार्यदिवसांत सोडविल्या जातात.",
+        "lang": "mr"
+      },
+      {
+        "text": "Grievances are typically resolved within 21 working days.",
+        "lang": "en"
+      },
+      {
+        "text": "तक्रारी सहसा 21 कार्यदिवसांत सोडविल्या जातात.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "Unresolved_Grievance": {
+    "queries": [
+      {
+        "text": "My complaint is still unresolved, what can I do?",
+        "lang": "en"
+      },
+      {
+        "text": "माझी तक्रार अजूनही प्रलंबित आहे, मी काय करू?",
+        "lang": "mr"
+      },
+      {
+        "text": "My complaint is still unresolved, what can I do?",
+        "lang": "en"
+      },
+      {
+        "text": "माझी तक्रार अजूनही प्रलंबित आहे, मी काय करू?",
+        "lang": "mr"
+      },
+      {
+        "text": "My complaint is still unresolved, what can I do?",
+        "lang": "en"
+      },
+      {
+        "text": "माझी तक्रार अजूनही प्रलंबित आहे, मी काय करू?",
+        "lang": "mr"
+      },
+      {
+        "text": "My complaint is still unresolved, what can I do?",
+        "lang": "en"
+      },
+      {
+        "text": "माझी तक्रार अजूनही प्रलंबित आहे, मी काय करू?",
+        "lang": "mr"
+      },
+      {
+        "text": "My complaint is still unresolved, what can I do?",
+        "lang": "en"
+      },
+      {
+        "text": "माझी तक्रार अजूनही प्रलंबित आहे, मी काय करू?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "You can escalate unresolved grievances to the Nodal Officer.",
+        "lang": "en"
+      },
+      {
+        "text": "आपण नोडल अधिकाऱ्याकडे तक्रार पुढे जाऊ शकता.",
+        "lang": "mr"
+      },
+      {
+        "text": "You can escalate unresolved grievances to the Nodal Officer.",
+        "lang": "en"
+      },
+      {
+        "text": "आपण नोडल अधिकाऱ्याकडे तक्रार पुढे जाऊ शकता.",
+        "lang": "mr"
+      },
+      {
+        "text": "You can escalate unresolved grievances to the Nodal Officer.",
+        "lang": "en"
+      },
+      {
+        "text": "आपण नोडल अधिकाऱ्याकडे तक्रार पुढे जाऊ शकता.",
+        "lang": "mr"
+      },
+      {
+        "text": "You can escalate unresolved grievances to the Nodal Officer.",
+        "lang": "en"
+      },
+      {
+        "text": "आपण नोडल अधिकाऱ्याकडे तक्रार पुढे जाऊ शकता.",
+        "lang": "mr"
+      },
+      {
+        "text": "You can escalate unresolved grievances to the Nodal Officer.",
+        "lang": "en"
+      },
+      {
+        "text": "आपण नोडल अधिकाऱ्याकडे तक्रार पुढे जाऊ शकता.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "Certificate_Info_Documents": {
+    "queries": [
+      {
+        "text": "What documents are required for income certificate?",
+        "lang": "en"
+      },
+      {
+        "text": "उत्पन्न प्रमाणपत्रासाठी कोणती कागदपत्रे आवश्यक आहेत?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "To apply for an Income Certificate, you need ID proof (Aadhaar), address proof, and income proof such as salary slip or Form 16.",
+        "lang": "en"
+      },
+      {
+        "text": "उत्पन्न प्रमाणपत्रासाठी, आधार कार्ड, पत्त्याचा पुरावा, आणि पगार पावती किंवा फॉर्म 16 यासारखे उत्पन्नाचे पुरावे आवश्यक आहेत.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "Certificate_Processing_Time": {
+    "queries": [
+      {
+        "text": "How many days will it take to get a caste certificate?",
+        "lang": "en"
+      },
+      {
+        "text": "जात प्रमाणपत्र मिळण्यास किती दिवस लागतील?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "Generally, it takes 15 working days to issue a caste certificate.",
+        "lang": "en"
+      },
+      {
+        "text": "जात प्रमाणपत्र मिळण्यासाठी सामान्यतः १५ कार्यदिवस लागतात.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "Certificate_Fee": {
+    "queries": [
+      {
+        "text": "What is the fee for domicile certificate?",
+        "lang": "en"
+      },
+      {
+        "text": "रहिवासी प्रमाणपत्रासाठी किती फी लागते?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "The fee for a domicile certificate application is ₹50.",
+        "lang": "en"
+      },
+      {
+        "text": "रहिवासी प्रमाणपत्रासाठी अर्जाची फी ₹५० आहे.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "Certificate_Notification": {
+    "queries": [
+      {
+        "text": "How will I know when my certificate is ready?",
+        "lang": "en"
+      },
+      {
+        "text": "माझे प्रमाणपत्र तयार झाल्यावर मला कसे कळेल?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "You will receive an SMS and email once your certificate is issued. You can also track it on the portal.",
+        "lang": "en"
+      },
+      {
+        "text": "प्रमाणपत्र जारी झाल्यावर तुम्हाला SMS आणि ईमेल प्राप्त होईल. तुम्ही पोर्टलवरही ट्रॅक करू शकता.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "Certificate_Process": {
+    "queries": [
+      {
+        "text": "What is the process to apply for birth certificate online?",
+        "lang": "en"
+      },
+      {
+        "text": "जन्म प्रमाणपत्रासाठी ऑनलाइन अर्ज करण्याची प्रक्रिया काय आहे?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "Visit Aaple Sarkar, log in, choose 'Birth Certificate', fill the form, upload documents, and submit the application.",
+        "lang": "en"
+      },
+      {
+        "text": "आपले सरकार पोर्टलवर जा, लॉगिन करा, 'जन्म प्रमाणपत्र' निवडा, फॉर्म भरा, कागदपत्रे अपलोड करा आणि अर्ज सबमिट करा.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "RationCard_Apply": {
+    "queries": [
+      {
+        "text": "How can I apply for a new ration card?",
+        "lang": "en"
+      },
+      {
+        "text": "मी नवीन रेशन कार्डसाठी अर्ज कसा करू शकतो?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "You can apply online through the Aaple Sarkar portal under 'Ration Card' services.",
+        "lang": "en"
+      },
+      {
+        "text": "आपण 'आपले सरकार' पोर्टलवरील 'रेशन कार्ड' सेवेतून ऑनलाइन अर्ज करू शकता.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "RationCard_Status": {
+    "queries": [
+      {
+        "text": "How to check my ration card application status?",
+        "lang": "en"
+      },
+      {
+        "text": "माझ्या रेशन कार्ड अर्जाची स्थिती कशी तपासायची?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "Visit the Aaple Sarkar portal and use your application ID to check status.",
+        "lang": "en"
+      },
+      {
+        "text": "आपले सरकार पोर्टलवर अर्ज क्रमांक वापरून स्थिती तपासा.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "Pension_Eligibility": {
+    "queries": [
+      {
+        "text": "What is the eligibility for old age pension?",
+        "lang": "en"
+      },
+      {
+        "text": "जुनी वयस्कर निवृत्तीवेतनासाठी पात्रता काय आहे?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "Applicants must be above 60 years of age and meet income criteria to avail old age pension.",
+        "lang": "en"
+      },
+      {
+        "text": "जुनी वयस्कर निवृत्तीवेतनासाठी अर्जदाराचे वय ६० वर्षांपेक्षा जास्त असावे आणि उत्पन्न निकष पूर्ण करावा लागतो.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "Pension_Apply": {
+    "queries": [
+      {
+        "text": "How to apply for pension online?",
+        "lang": "en"
+      },
+      {
+        "text": "निवृत्तीवेतनासाठी ऑनलाइन अर्ज कसा करायचा?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "You can apply through the Social Justice section on the Aaple Sarkar portal.",
+        "lang": "en"
+      },
+      {
+        "text": "आपले सरकार पोर्टलवरील सामाजिक न्याय विभागामधून अर्ज करू शकता.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "MahaDBT_Info": {
+    "queries": [
+      {
+        "text": "What is MahaDBT portal?",
+        "lang": "en"
+      },
+      {
+        "text": "महाडीबीटी पोर्टल म्हणजे काय?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "MahaDBT is a Direct Benefit Transfer portal for government schemes like scholarships and subsidies.",
+        "lang": "en"
+      },
+      {
+        "text": "महाडीबीटी हे शिष्यवृत्ती व अनुदानासाठीचे थेट लाभ हस्तांतरण पोर्टल आहे.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "MahaDBT_Apply": {
+    "queries": [
+      {
+        "text": "How to apply for a MahaDBT scholarship?",
+        "lang": "en"
+      },
+      {
+        "text": "महाडीबीटी शिष्यवृत्तीसाठी अर्ज कसा करावा?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "Register on MahaDBT, log in, and apply under the appropriate department scheme.",
+        "lang": "en"
+      },
+      {
+        "text": "महाडीबीटीवर नोंदणी करा, लॉगिन करा आणि योग्य योजनेअंतर्गत अर्ज करा.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "LandRecords_7_12": {
+    "queries": [
+      {
+        "text": "How to get my 7/12 extract online?",
+        "lang": "en"
+      },
+      {
+        "text": "७/१२ उतारा ऑनलाइन कसा मिळवावा?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "Visit Mahabhulekh website and search by district, taluka, and village to download 7/12.",
+        "lang": "en"
+      },
+      {
+        "text": "महाभुलेख संकेतस्थळावर जाऊन जिल्हा, तालुका आणि गावानुसार शोधून ७/१२ उतारा डाउनलोड करा.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "LandRecords_Documents": {
+    "queries": [
+      {
+        "text": "What documents are required to update 7/12 extract?",
+        "lang": "en"
+      },
+      {
+        "text": "७/१२ उतारा अद्ययावत करण्यासाठी कोणती कागदपत्रे लागतात?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "You will need property proof, Aadhaar card, and mutation entry copy.",
+        "lang": "en"
+      },
+      {
+        "text": "संपत्तीचा पुरावा, आधार कार्ड, व फेरफार नोंद याची प्रत आवश्यक आहे.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "Aadhaar_Update": {
+    "queries": [
+      {
+        "text": "How can I update my mobile number in Aadhaar?",
+        "lang": "en"
+      },
+      {
+        "text": "आधारमध्ये मोबाईल नंबर कसा अद्ययावत करायचा?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "Visit your nearest Aadhaar Seva Kendra with identity proof to update mobile number.",
+        "lang": "en"
+      },
+      {
+        "text": "ओळखीचा पुरावा घेऊन जवळच्या आधार सेवा केंद्रात जा आणि मोबाईल नंबर अपडेट करा.",
+        "lang": "mr"
+      }
+    ]
+  },
+  "Aadhaar_Link_Status": {
+    "queries": [
+      {
+        "text": "How to check if my Aadhaar is linked to ration card?",
+        "lang": "en"
+      },
+      {
+        "text": "माझा आधार रेशन कार्डशी लिंक झाला आहे का ते कसे तपासायचे?",
+        "lang": "mr"
+      }
+    ],
+    "responses": [
+      {
+        "text": "Check Aadhaar seeding status on UIDAI or state PDS portal.",
+        "lang": "en"
+      },
+      {
+        "text": "UIDAI किंवा राज्याच्या PDS पोर्टलवर आधार लिंक स्थिती तपासा.",
+        "lang": "mr"
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+    "File_Complaint": {
+        "queries": [
+            "How do I file a complaint?",
+            "मी तक्रार कशी दाखल करू?"
+        ],
+        "responses": [
+            "You can file a complaint on the Aaple Sarkar portal by clicking on 'File Grievance'.",
+            "आपण 'आपले सरकार' पोर्टलवर 'तक्रार नोंदवा' वर क्लिक करून तक्रार दाखल करू शकता."
+        ]
+    },
+    "Check_Status": {
+        "queries": [
+            "What is the status of my complaint?",
+            "माझ्या तक्रारीची स्थिती काय आहे?"
+        ],
+        "responses": [
+            "Use your complaint number to track the status on the portal.",
+            "पोर्टलवर आपल्या तक्रारीचा क्रमांक वापरून स्थिती तपासा."
+        ]
+    },
+    "Apply_Certificate": {
+        "queries": [
+            "How to apply for caste certificate?",
+            "जात प्रमाणपत्रासाठी अर्ज कसा करावा?"
+        ],
+        "responses": [
+            "Go to Aaple Sarkar and choose 'Caste Certificate' under available services.",
+            "'आपले सरकार' पोर्टलवर जाऊन 'जात प्रमाणपत्र' सेवा निवडा."
+        ]
+    },
+    "Forgot_Password": {
+        "queries": [
+            "I forgot my login password.",
+            "मी माझा लॉगिन पासवर्ड विसरलो आहे."
+        ],
+        "responses": [
+            "Click 'Forgot Password' on the login screen to reset your password.",
+            "लॉगिन पेजवरील 'पासवर्ड विसरलात' या पर्यायाचा वापर करा."
+        ]
+    },
+    "Scheme_Info": {
+        "queries": [
+            "What schemes are available for farmers?",
+            "शेतकऱ्यांसाठी कोणत्या योजना आहेत?"
+        ],
+        "responses": [
+            "Visit the 'Schemes' section to see available schemes for farmers.",
+            "'योजना' विभागात शेतकऱ्यांसाठी उपलब्ध योजना पहा."
+        ]
+    },
+    "Login_Help": {
+        "queries": [
+            "I can't log in to the portal.",
+            "मी पोर्टलमध्ये लॉगिन करू शकत नाही."
+        ],
+        "responses": [
+            "Check if your login credentials are correct. Use 'Forgot Password' if needed.",
+            "आपले लॉगिन तपशील तपासा. पासवर्ड विसरलात का वापरा."
+        ]
+    },
+    "OTP_Issue": {
+        "queries": [
+            "I did not receive my OTP.",
+            "मला OTP मिळाला नाही."
+        ],
+        "responses": [
+            "Please wait for 2 minutes or click 'Resend OTP' to try again.",
+            "कृपया 2 मिनिटे प्रतीक्षा करा किंवा 'OTP पुन्हा पाठवा' क्लिक करा."
+        ]
+    },
+    "Attach_Documents": {
+        "queries": [
+            "Can I attach documents to my complaint?",
+            "मी तक्रारीसोबत कागदपत्र जोडू शकतो का?"
+        ],
+        "responses": [
+            "Yes, you can upload PDF or image files as supporting documents.",
+            "होय, आपण PDF किंवा इमेज स्वरूपातील कागदपत्र जोडू शकता."
+        ]
+    },
+    "Resolution_Time": {
+        "queries": [
+            "How long does it take to resolve a complaint?",
+            "तक्रार सोडवण्यासाठी किती वेळ लागतो?"
+        ],
+        "responses": [
+            "Grievances are typically resolved within 21 working days.",
+            "तक्रारी सहसा 21 कार्यदिवसांत सोडविल्या जातात."
+        ]
+    },
+    "Unresolved_Grievance": {
+        "queries": [
+            "My complaint is still unresolved, what can I do?",
+            "माझी तक्रार अजूनही प्रलंबित आहे, मी काय करू?"
+        ],
+        "responses": [
+            "You can escalate unresolved grievances to the Nodal Officer.",
+            "आपण नोडल अधिकाऱ्याकडे तक्रार पुढे जाऊ शकता."
+        ]
+    },
+    "Certificate_Info_Documents": {
+        "queries": [
+            "What documents are required for income certificate?",
+            "उत्पन्न प्रमाणपत्रासाठी कोणती कागदपत्रे आवश्यक आहेत?"
+        ],
+        "responses": [
+            "To apply for an Income Certificate, you need ID proof (Aadhaar), address proof, and income proof such as salary slip or Form 16.",
+            "उत्पन्न प्रमाणपत्रासाठी, आधार कार्ड, पत्त्याचा पुरावा, आणि पगार पावती किंवा फॉर्म 16 यासारखे उत्पन्नाचे पुरावे आवश्यक आहेत."
+        ]
+    },
+    "Certificate_Processing_Time": {
+        "queries": [
+            "How many days will it take to get a caste certificate?",
+            "जात प्रमाणपत्र मिळण्यास किती दिवस लागतील?"
+        ],
+        "responses": [
+            "Generally, it takes 15 working days to issue a caste certificate.",
+            "जात प्रमाणपत्र मिळण्यासाठी सामान्यतः १५ कार्यदिवस लागतात."
+        ]
+    },
+    "Certificate_Fee": {
+        "queries": [
+            "What is the fee for domicile certificate?",
+            "रहिवासी प्रमाणपत्रासाठी किती फी लागते?"
+        ],
+        "responses": [
+            "The fee for a domicile certificate application is ₹50.",
+            "रहिवासी प्रमाणपत्रासाठी अर्जाची फी ₹५० आहे."
+        ]
+    },
+    "Certificate_Notification": {
+        "queries": [
+            "How will I know when my certificate is ready?",
+            "माझे प्रमाणपत्र तयार झाल्यावर मला कसे कळेल?"
+        ],
+        "responses": [
+            "You will receive an SMS and email once your certificate is issued. You can also track it on the portal.",
+            "प्रमाणपत्र जारी झाल्यावर तुम्हाला SMS आणि ईमेल प्राप्त होईल. तुम्ही पोर्टलवरही ट्रॅक करू शकता."
+        ]
+    },
+    "Certificate_Process": {
+        "queries": [
+            "What is the process to apply for birth certificate online?",
+            "जन्म प्रमाणपत्रासाठी ऑनलाइन अर्ज करण्याची प्रक्रिया काय आहे?"
+        ],
+        "responses": [
+            "Visit Aaple Sarkar, log in, choose 'Birth Certificate', fill the form, upload documents, and submit the application.",
+            "आपले सरकार पोर्टलवर जा, लॉगिन करा, 'जन्म प्रमाणपत्र' निवडा, फॉर्म भरा, कागदपत्रे अपलोड करा आणि अर्ज सबमिट करा."
+        ]
+    },
+    "RationCard_Apply": {
+        "queries": [
+            "How can I apply for a new ration card?",
+            "मी नवीन रेशन कार्डसाठी अर्ज कसा करू शकतो?"
+        ],
+        "responses": [
+            "You can apply online through the Aaple Sarkar portal under 'Ration Card' services.",
+            "आपण 'आपले सरकार' पोर्टलवरील 'रेशन कार्ड' सेवेतून ऑनलाइन अर्ज करू शकता."
+        ]
+    },
+    "RationCard_Status": {
+        "queries": [
+            "How to check my ration card application status?",
+            "माझ्या रेशन कार्ड अर्जाची स्थिती कशी तपासायची?"
+        ],
+        "responses": [
+            "Visit the Aaple Sarkar portal and use your application ID to check status.",
+            "आपले सरकार पोर्टलवर अर्ज क्रमांक वापरून स्थिती तपासा."
+        ]
+    },
+    "Pension_Eligibility": {
+        "queries": [
+            "What is the eligibility for old age pension?",
+            "जुनी वयस्कर निवृत्तीवेतनासाठी पात्रता काय आहे?"
+        ],
+        "responses": [
+            "Applicants must be above 60 years of age and meet income criteria to avail old age pension.",
+            "जुनी वयस्कर निवृत्तीवेतनासाठी अर्जदाराचे वय ६० वर्षांपेक्षा जास्त असावे आणि उत्पन्न निकष पूर्ण करावा लागतो."
+        ]
+    },
+    "Pension_Apply": {
+        "queries": [
+            "How to apply for pension online?",
+            "निवृत्तीवेतनासाठी ऑनलाइन अर्ज कसा करायचा?"
+        ],
+        "responses": [
+            "You can apply through the Social Justice section on the Aaple Sarkar portal.",
+            "आपले सरकार पोर्टलवरील सामाजिक न्याय विभागामधून अर्ज करू शकता."
+        ]
+    },
+    "MahaDBT_Info": {
+        "queries": [
+            "What is MahaDBT portal?",
+            "महाडीबीटी पोर्टल म्हणजे काय?"
+        ],
+        "responses": [
+            "MahaDBT is a Direct Benefit Transfer portal for government schemes like scholarships and subsidies.",
+            "महाडीबीटी हे शिष्यवृत्ती व अनुदानासाठीचे थेट लाभ हस्तांतरण पोर्टल आहे."
+        ]
+    },
+    "MahaDBT_Apply": {
+        "queries": [
+            "How to apply for a MahaDBT scholarship?",
+            "महाडीबीटी शिष्यवृत्तीसाठी अर्ज कसा करावा?"
+        ],
+        "responses": [
+            "Register on MahaDBT, log in, and apply under the appropriate department scheme.",
+            "महाडीबीटीवर नोंदणी करा, लॉगिन करा आणि योग्य योजनेअंतर्गत अर्ज करा."
+        ]
+    },
+    "LandRecords_7_12": {
+        "queries": [
+            "How to get my 7/12 extract online?",
+            "७/१२ उतारा ऑनलाइन कसा मिळवावा?"
+        ],
+        "responses": [
+            "Visit Mahabhulekh website and search by district, taluka, and village to download 7/12.",
+            "महाभुलेख संकेतस्थळावर जाऊन जिल्हा, तालुका आणि गावानुसार शोधून ७/१२ उतारा डाउनलोड करा."
+        ]
+    },
+    "LandRecords_Documents": {
+        "queries": [
+            "What documents are required to update 7/12 extract?",
+            "७/१२ उतारा अद्ययावत करण्यासाठी कोणती कागदपत्रे लागतात?"
+        ],
+        "responses": [
+            "You will need property proof, Aadhaar card, and mutation entry copy.",
+            "संपत्तीचा पुरावा, आधार कार्ड, व फेरफार नोंद याची प्रत आवश्यक आहे."
+        ]
+    },
+    "Aadhaar_Update": {
+        "queries": [
+            "How can I update my mobile number in Aadhaar?",
+            "आधारमध्ये मोबाईल नंबर कसा अद्ययावत करायचा?"
+        ],
+        "responses": [
+            "Visit your nearest Aadhaar Seva Kendra with identity proof to update mobile number.",
+            "ओळखीचा पुरावा घेऊन जवळच्या आधार सेवा केंद्रात जा आणि मोबाईल नंबर अपडेट करा."
+        ]
+    },
+    "Aadhaar_Link_Status": {
+        "queries": [
+            "How to check if my Aadhaar is linked to ration card?",
+            "माझा आधार रेशन कार्डशी लिंक झाला आहे का ते कसे तपासायचे?"
+        ],
+        "responses": [
+            "Check Aadhaar seeding status on UIDAI or state PDS portal.",
+            "UIDAI किंवा राज्याच्या PDS पोर्टलवर आधार लिंक स्थिती तपासा."
+        ]
+    }
+}
